@@ -1,2 +1,2 @@
 # ericgarnett.com
-static personal website
+personal website (static)
