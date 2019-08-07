@@ -1,0 +1,30 @@
+#landing-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#landing-header {
+  text-align: center;
+}
+
+#landing-details {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+#landing-details div {
+  display: flex;
+  justify-content: center;
+}
+
+#main-self-pic {
+  max-height: 30em;
+  max-width: 30em;
+}
+
+#landing-subheader {
+  font-size: 1.5em;
+}
