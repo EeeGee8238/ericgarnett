@@ -1,0 +1,34 @@
+body {
+  background-color: #9b9e9a;
+}
+#about-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+#about-header figcaption {
+  color: #FFFFFF;
+  background-color: #4c4747;
+  width: 30em;
+  margin: auto;
+}
+
+#about-header-pic {
+  transform: rotate(180deg);
+  height: 23em;
+  width: 30em;
+}
+
+#about-section {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.about-list-factoid {
+  display: block;
+  margin-bottom: 25px;
+  font-size: 1.3em;
+}
