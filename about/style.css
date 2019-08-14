@@ -32,3 +32,18 @@ body {
   margin-bottom: 25px;
   font-size: 1.3em;
 }
+
+#nav-list {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-item {
+  display: block;
+  margin-right: 4em;
+  margin-bottom: 1em;
+}
+
+i {
+  color: #000000;
+}
