@@ -1,3 +1,7 @@
+body {
+  background-color: #e0e3dd;
+}
+
 #landing-page {
   display: flex;
   flex-direction: column;
@@ -26,6 +30,13 @@ h1 {
 
 h4 {
   font-family: 'Montserrat', sans-serif;
+}
+
+#landing-details figcaption {
+  color: #FFFFFF;
+  background-color: #4c4747;
+  width: 30em;
+  margin: .2em auto;
 }
 
 #main-self-pic {
