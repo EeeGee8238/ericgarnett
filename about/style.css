@@ -35,13 +35,17 @@ body {
 
 #nav-list {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.nav-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .nav-item {
   display: block;
-  margin-right: 4em;
-  margin-bottom: 1em;
 }
 
 i {
