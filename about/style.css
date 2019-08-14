@@ -1,5 +1,5 @@
 body {
-  background-color: #9b9e9a;
+  background-color: #e0e3dd;
 }
 #about-header {
   display: flex;
@@ -46,4 +46,8 @@ body {
 
 i {
   color: #000000;
+}
+
+i:hover {
+  color: rgb(20, 67, 194);
 }
