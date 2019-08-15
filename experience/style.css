@@ -67,6 +67,7 @@ h1, h2 {
 
 .experience-title {
   font-family: 'Playfair Display', serif;
+  margin: 0.5em 0;
 }
 
 .experience-date {
